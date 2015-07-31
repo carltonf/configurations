@@ -1,0 +1,65 @@
+
+virtualbox virtualbox-guest-additions-iso
+diffutils-doc
+diffutils-doc gcc-doc make-doc
+wireshark wireshark-doc
+ecb
+xbindkeys xbindkeys-config ratpoison
+libtool gettext autoconf autoconf-doc autoconf2.13
+emacs23-el spell gawk
+check
+xchm
+xpdf unrar
+chromium-browser
+w3m w3m-img menu w3m-el migemo
+subversion
+git git-doc gitk git-el
+rcs
+default-jdk default-jdk-doc openjdk-6-demo openjdk-6-source
+install ant ant-doc
+p7zip-full p7zip-rar
+p7zip-full p7zip-rar
+ant ant-doc
+global doxygen apache2 apache2-doc id-utils
+cscope cscope-el
+autokey-gtk
+dmenu perl-doc groff
+goldendict goldendict-wordnet
+git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev libc6-dev lib32ncurses5-dev ia32-libs x11proto-core-dev libx11-dev lib32readline-gplv2-dev lib32z1-dev libgl1-mesa-dev g++-multilib mingw32 tofrodos python-markdown libxml2-utils
+screen
+eclipse junit-doc
+xwrits
+ttf-inconsolata
+dconf-tools
+lo-menubar
+gnome-shell deskbar-applet
+abootimg
+qemu ipxe uml-utilities
+vim-gnome vim-doc ttf-dejavu
+auctex catdvi dvipng
+gcc-4.5 g++-4.5 gcc-4.5-multilib g++-4.5-multilib gcc-4.5-doc
+sysstat isag gnuplot-doc
+iw
+nethogs
+tree
+htop
+linux-doc
+auctex catdvi dvipng
+cm-super cm-super-minimal context dvipng feynmf fragmaster ko.tex-extra-hlfont latex-cjk-all latex-cjk-chinese
+  latex-cjk-chinese-arphic-bkai00mp latex-cjk-chinese-arphic-bsmi00lp latex-cjk-chinese-arphic-gbsn00lp
+  latex-cjk-chinese-arphic-gkai00mp latex-cjk-common latex-cjk-japanese latex-cjk-japanese-wadalab latex-cjk-korean
+  latex-cjk-thai latex-cjk-xcjk latex-sanskrit latexmk lcdf-typetools musixtex pfb2t1c2pfb swath t1utils tex-gyre tex4ht
+  tex4ht-common texinfo texlive-bibtex-extra texlive-doc-en texlive-doc-zh
+  texlive-fonts-extra texlive-fonts-extra-doc texlive-fonts-recommended texlive-fonts-recommended-doc texlive-formats-extra
+  texlive-full texlive-games texlive-generic-extra texlive-humanities texlive-humanities-doc texlive-latex3 texlive-math-extra texlive-metapost texlive-metapost-doc texlive-music texlive-omega
+  texlive-plain-extra texlive-publishers texlive-publishers-doc texlive-science texlive-science-doc texlive-xetex thailatex tipa
+  ttf-gfs-artemisia ttf-gfs-baskerville ttf-gfs-bodoni-classic ttf-gfs-didot ttf-gfs-didot-classic ttf-gfs-gazis
+  ttf-gfs-neohellenic ttf-gfs-olga ttf-gfs-porson ttf-gfs-solomos ttf-gfs-theokritos ttf-sil-gentium
+
+binutils-doc
+gcc-4.4 gcc-4.4-multilib g++-4.4 gcc-4.4-doc
+mediawiki
+bash-doc
+tftpd ftpd
+mdbus2 dbus-1-dbg dbus-1-doc libdbus-1-dev libdbus-c++-1-0 libdbus-c++-dev
+php5 php-doc phpunit phpunit-doc php-wikidiff2 mediawiki-extensions
