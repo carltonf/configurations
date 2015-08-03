@@ -1,0 +1,6 @@
+Just articles cache.
+
+They exists because my old wiki setup doesn't preserve the links only page archive.
+
+Pages are usually stored in MAF: Mozilla Archive Format, supported by a Mozilla
+extension.

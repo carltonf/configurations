@@ -1,0 +1,24 @@
+ssh -N -f host
+
+
+opens a connection and goes into the background without executing a remote command so you don't need to keep a window or shell running locally just to keep that connection.
+
+
+greetings, eMBee. 
+
+':' is not a legal character in path names,
+try instead
+
+ControlPath ~/.ssh/master-%r@%h.%p
+
+Also, isn't the whole point of putting ControlPath in<nobr> <wbr></nobr>.ssh/config to make the '-S ' argument uneccessary? And doesn't the 'ControlMaster auto' also make the toggling -M uneccessary? 
+
+You can simply make ssh hang around in the background with this command:
+ssh -fMN <hostname>
+
+You can set it to autoask instead of auto to have ssh prompt you for whether or not to reuse an existing connection.
+
+The configuration directive ControlPath tells ssh where it should keep its socket information. I've chosen to put these files in /tmp, however it may be best to put this into your own home directory on multi-user systems. 
+
+NOTE: You will need to specify -o ControlMaster=no when using ssh to do ssh tunneling otherwise multiple tunnels to a particular host will not work. 
+
